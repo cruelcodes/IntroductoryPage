@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ankit Prasad
+# Hi there! I'm Ankit Prasad
 
 ## About Me
 I'm a passionate developer on a journey to build cool things with code! I studied at Dr. B R Ambedkar National Institute of Technology, Jalandhar (NIT Jalandhar), where I discovered my love for programming and problem-solving. From tinkering with simple scripts to working on full-fledged projects, I’ve always been fascinated by the power of technology to bring ideas to life.
